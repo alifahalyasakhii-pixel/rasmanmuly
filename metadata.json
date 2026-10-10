@@ -1,0 +1,6 @@
+{
+  "name": "Yayasan Pendidikan Rasman Mulya",
+  "description": "Portal Resmi dan Sistem Informasi Akademik Yayasan Pendidikan Rasman Mulya (SMP & SMK), Direktori Guru, SPMB Online, dan Galeri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
